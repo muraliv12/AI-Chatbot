@@ -31,7 +31,7 @@ Where can I get testimonials for this course ?
 Who is the mentor for this course ?
 Is it an online or offline course ?
 Installation
-Clone the repository: git clone https://github.com/TusharKesarwani/AI-Chatbot.git
+Clone the repository: git clone https://github.com/muraliv12/AI-Chatbot.git
 Navigate to the project directory: cd AI-Chatbot
 Backend Setup
 Navigate to the backend directory: cd chatbot-backend
